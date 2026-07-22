@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://phjudy.github.io/snippets-c3yxi7/sitemap.xml
